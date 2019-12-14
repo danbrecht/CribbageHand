@@ -5,3 +5,6 @@ Does not take into account points put in crib.  So it might crib two 5's, which 
 
 Allows up to 8 cards in the original hand and specifying 1 or 2 cards to go to crib.
 
+![Perfect Hand](/Images/perfect.jpg)
+
+![8 cards 1 to crib](/Images/8and1.jpg)
